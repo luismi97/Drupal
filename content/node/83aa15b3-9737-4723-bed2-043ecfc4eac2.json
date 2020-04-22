@@ -1,0 +1,176 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/3?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/cursos"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/field_categoria": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/3?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "83aa15b3-9737-4723-bed2-043ecfc4eac2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "cursos"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-04-22T17:31:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6af599f8-e47f-4332-9eb3-d7dcecb2a2b8"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6af599f8-e47f-4332-9eb3-d7dcecb2a2b8"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/cursos\/field_categoria": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/3?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/cursos"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "22e98822-7d60-4238-8518-3ef832c2698c"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Fundamentos de pintura",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-22T17:29:18+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-22T17:31:20+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Referente a Fundamentos de pintura<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>Referente a Fundamentos de pintura<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ],
+    "field_titulo": [
+        {
+            "value": "Fundamentos de pintura",
+            "format": "basic_html",
+            "processed": "Fundamentos de pintura"
+        }
+    ]
+}

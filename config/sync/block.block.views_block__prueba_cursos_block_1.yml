@@ -1,0 +1,24 @@
+uuid: 0c7bfee3-d55c-45b4-bb2d-8dbad3e02907
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.prueba_cursos
+  module:
+    - views
+  theme:
+    - bartik
+id: views_block__prueba_cursos_block_1
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:prueba_cursos-block_1'
+settings:
+  id: 'views_block:prueba_cursos-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }

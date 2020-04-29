@@ -1,0 +1,12 @@
+uuid: 928b9665-fdaf-4455-87a7-b987621245fc
+langcode: en
+status: true
+dependencies: {  }
+id: formulario_practica
+label: 'Formulario Practica'
+recipients:
+  - luismiguelmolina8@gmail.com
+reply: ''
+weight: 0
+message: 'Formulario Enviado'
+redirect: /

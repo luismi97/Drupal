@@ -1,0 +1,14 @@
+uuid: fd701645-9954-4b1e-9b52-5b0a476b6cc1
+langcode: en
+status: true
+dependencies: {  }
+name: prueba_responsive_image
+label: 'Prueba Responsive Image'
+effects:
+  38647db3-1279-4c3b-990e-686ac65d5304:
+    uuid: 38647db3-1279-4c3b-990e-686ac65d5304
+    id: image_resize
+    weight: 1
+    data:
+      width: 100
+      height: 100

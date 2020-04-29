@@ -1,0 +1,30 @@
+uuid: e9e72297-ddd7-4924-857c-a4756837959c
+langcode: en
+status: true
+dependencies:
+  config:
+    - image.style.max_1300x1300
+    - image.style.medium
+    - image.style.prueba_responsive_image
+  theme:
+    - bartik
+id: prueba_responsive
+label: 'Prueba Responsive'
+image_style_mappings:
+  -
+    breakpoint_id: bartik.wide
+    multiplier: 1x
+    image_mapping_type: image_style
+    image_mapping: max_1300x1300
+  -
+    breakpoint_id: bartik.narrow
+    multiplier: 1x
+    image_mapping_type: image_style
+    image_mapping: medium
+  -
+    breakpoint_id: bartik.mobile
+    multiplier: 1x
+    image_mapping_type: image_style
+    image_mapping: prueba_responsive_image
+breakpoint_group: bartik
+fallback_image_style: prueba_responsive_image

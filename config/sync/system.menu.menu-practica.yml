@@ -1,0 +1,8 @@
+uuid: d4dd4dbe-4d20-41ed-864f-e7d40ffa9184
+langcode: en
+status: true
+dependencies: {  }
+id: menu-practica
+label: 'Menu Practica'
+description: ''
+locked: false

@@ -1,0 +1,8 @@
+uuid: 019c203a-0993-4935-a7c3-ea61ad1f9a9b
+langcode: en
+status: true
+dependencies: {  }
+name: Cursos
+vid: cursos
+description: 'Seleccion de cursos'
+weight: 0

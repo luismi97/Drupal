@@ -32,7 +32,7 @@ ini_set('session.gc_divisor', 100);
 ini_set('session.gc_maxlifetime', 200000);
 ini_set('session.cookie_lifetime', 2000000);
 
-$settings['hash_salt'] = 'cDbVaOOeyLRHBQEFXvuHiVLVimcSRJdJVpVPABOjWRFwwhiNTtYclRgNMsmBMQRl';
+$settings['hash_salt'] = 'xnxHQsdomHkydJoxkqriYeowwYkkpibGuWAXlwafUYaHSFZiSFUNYnmzaqVMmWpc';
 
 // This will prevent Drupal from setting read-only permissions on sites/default.
 $settings['skip_permissions_hardening'] = TRUE;

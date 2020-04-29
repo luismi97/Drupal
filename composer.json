@@ -24,6 +24,8 @@
         "drupal/core": "^8.8.0",
         "drupal/core-composer-scaffold": "^8.8.0",
         "drupal/default_content_deploy": "^1.0@beta",
+        "drupal/media_entity_browser": "^2.0",
+        "drupal/paragraphs": "^1.11",
         "drush/drush": "^9.7.1 | ^10.0.0",
         "vlucas/phpdotenv": "^4.0",
         "webflo/drupal-finder": "^1.0.0",
